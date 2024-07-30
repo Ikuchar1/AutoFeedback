@@ -4,6 +4,9 @@ I made this project summer of 2024 going into my sophomore year of college. On m
 Technology Used
 ---------------
 Flask - Python
+
 EC2 Instance - Amazon Web Services
+
 Nginx 
+
 JS/HTML/CSS 
